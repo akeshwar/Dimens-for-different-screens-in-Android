@@ -7,7 +7,7 @@ public class Main {
 
 
     /**
-     * You can change your factors here. The current factors are in accordance with the official documentation.
+     * You can change your factors here. The current factors are just for the demo
      */
     private static final double LDPI_FACTOR = 0.375;
     private static final double MDPI_FACTOR = 0.5;
